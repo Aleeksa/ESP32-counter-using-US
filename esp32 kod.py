@@ -64,8 +64,8 @@ def connect_wifi(ssid, password):
     return wlan.ifconfig()[0]
 
 # Podesite vašu Wi-Fi mrežu ovde
-SSID = 'OrionTelekom_EAAA-2.4G'
-PASSWORD = 'HWTCC921EAAA'
+SSID = ''
+PASSWORD = ''
 
 ip_address = connect_wifi(SSID, PASSWORD)
 
