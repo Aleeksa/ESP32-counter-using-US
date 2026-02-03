@@ -42,5 +42,5 @@ Ovaj projekat predstavlja pametni sistem za detekciju i brojanje prolazaka objek
 - **Web Refresh:** JavaScript unutar HTML-a koristi `XMLHttpRequest` da bi svake sekunde osvežio broj bez ponovnog učitavanja cele stranice.
 
 ---
-**Autor:** Aleksa Antić 131/23 RI  
+**Autor:** Aleksa Antić 
 **Tehnologije:** MicroPython, HTML/CSS, JavaScript (AJAX), IoT
